@@ -8,7 +8,7 @@ Esta base de datos la he diseñado para un sistema de informacion llamado Mystiq
 Mystique es un sistema de información compuesto por una app movil, un portal web, y una aplicación web Desktop. La misma está orientada al apoyo de la gestión de servicios de peluquería y maquillaje.  
 El proyecto fue realizado con fines academicos.
 
-Si deseas puedes ir al repositoria -->
+Si deseas puedes ir al repositoria --> [Sin titulo](https://github.com/JoselynG/Web-Desktop)
 ---
 
 ##Notas
