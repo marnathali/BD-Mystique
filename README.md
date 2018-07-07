@@ -2,7 +2,6 @@ Base de datos para proyecto Mystique
 =====================================
 
 Esta base de datos la he diseñado para un sistema de informacion llamado Mystique.
----
 
 Mystique
 --------
@@ -11,7 +10,7 @@ Mystique es un sistema de información compuesto por una app movil, un portal we
 El proyecto fue realizado con fines academicos.
 Si deseas puedes ir al repositorio --> [Mystique 
 -WebDesktop](https://github.com/JoselynG/Web-Desktop)
----
+
 
 Notas
 -----
